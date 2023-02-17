@@ -1,0 +1,6 @@
+[submodule "3rdparty/fr-tbp"]
+	path = 3rdparty/fr-tbp
+	url = https://github.com/Frank-Krick/fr-tbp
+[submodule "3rdparty/max-sdk-base"]
+	path = 3rdparty/max-sdk-base
+	url = https://github.com/Cycling74/max-sdk-base
